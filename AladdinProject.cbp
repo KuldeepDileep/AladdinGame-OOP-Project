@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="AladdinProject" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/AladdinProject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="C:/mingw_dev_lib/include/SDL2" />
+				</Compiler>
+				<Linker>
+					<Add option="-lmingw32 -lSDL2main -lSDL2 -lSDL2_image" />
+					<Add directory="C:/mingw_dev_lib/lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/AladdinProject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Aladdin.cpp" />
+		<Unit filename="Aladdin.h" />
+		<Unit filename="Background.cpp" />
+		<Unit filename="Background.h" />
+		<Unit filename="Boss.cpp" />
+		<Unit filename="Boss.h" />
+		<Unit filename="BossSeat.cpp" />
+		<Unit filename="BossSeat.h" />
+		<Unit filename="Camel.cpp" />
+		<Unit filename="Camel.h" />
+		<Unit filename="CamelSaliva.cpp" />
+		<Unit filename="CamelSaliva.h" />
+		<Unit filename="Camera.cpp" />
+		<Unit filename="Camera.h" />
+		<Unit filename="CollisionCheck.h" />
+		<Unit filename="Enemy.cpp" />
+		<Unit filename="Enemy.h" />
+		<Unit filename="Enemy2.cpp" />
+		<Unit filename="Enemy2.h" />
+		<Unit filename="Enemy3.cpp" />
+		<Unit filename="Enemy3.h" />
+		<Unit filename="EnemyBase.cpp" />
+		<Unit filename="EnemyBase.h" />
+		<Unit filename="Flames.cpp" />
+		<Unit filename="Flames.h" />
+		<Unit filename="Knife.cpp" />
+		<Unit filename="Knife.h" />
+		<Unit filename="LTexture.cpp" />
+		<Unit filename="LTexture.h" />
+		<Unit filename="Node.h" />
+		<Unit filename="Pillar.cpp" />
+		<Unit filename="Pillar.h" />
+		<Unit filename="PlaceObjects.cpp" />
+		<Unit filename="PlaceObjects.h" />
+		<Unit filename="PlatformStairs.cpp" />
+		<Unit filename="PlatformStairs.h" />
+		<Unit filename="Queue.cpp" />
+		<Unit filename="Queue.h" />
+		<Unit filename="Unit.cpp" />
+		<Unit filename="Unit.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

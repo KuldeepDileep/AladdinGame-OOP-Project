@@ -1,0 +1,690 @@
+# depslib dependency file v1.0
+1543722598 source:g:\habib\semester 3\oop\project\aladdin\aladdinproject\aladdin.cpp
+	"Aladdin.h"
+
+1543721257 g:\habib\semester 3\oop\project\aladdin\aladdinproject\aladdin.h
+	"Unit.h"
+
+1543738544 g:\habib\semester 3\oop\project\aladdin\aladdinproject\unit.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\begin_code.h
+
+1519922211 c:\mingw_dev_lib\include\sdl2\close_code.h
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\mingw_dev_lib\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540997982 c:\mingw_dev_lib\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1543675235 g:\habib\semester 3\oop\project\aladdin\aladdinproject\ltexture.h
+	<iostream>
+	<SDL.h>
+
+1543674205 source:g:\habib\semester 3\oop\project\aladdin\aladdinproject\boss.cpp
+	"Boss.h"
+	<iostream>
+	"EnemyBase.h"
+
+1543683738 g:\habib\semester 3\oop\project\aladdin\aladdinproject\boss.h
+	"EnemyBase.h"
+	"BossSeat.h"
+	"SDL.h"
+
+1543759398 g:\habib\semester 3\oop\project\aladdin\aladdinproject\enemybase.h
+	"LTexture.h"
+	"Unit.h"
+
+1543683738 g:\habib\semester 3\oop\project\aladdin\aladdinproject\bossseat.h
+	"EnemyBase.h"
+
+1543603366 source:g:\habib\semester 3\oop\project\aladdin\aladdinproject\bossseat.cpp
+	"BossSeat.h"
+
+1543562618 source:g:\habib\semester 3\oop\project\aladdin\aladdinproject\camel.cpp
+	"Camel.h"
+
+1543683738 g:\habib\semester 3\oop\project\aladdin\aladdinproject\camel.h
+	"EnemyBase.h"
+
+1543519480 source:g:\habib\semester 3\oop\project\aladdin\aladdinproject\camelsaliva.cpp
+	"CamelSaliva.h"
+
+1543683738 g:\habib\semester 3\oop\project\aladdin\aladdinproject\camelsaliva.h
+	"EnemyBase.h"
+	"Enemy2.h"
+
+1543712066 g:\habib\semester 3\oop\project\aladdin\aladdinproject\enemy.h
+	"EnemyBase.h"
+
+1543736285 source:g:\habib\semester 3\oop\project\aladdin\aladdinproject\enemy.cpp
+	"Enemy.h"
+
+1543731156 source:g:\habib\semester 3\oop\project\aladdin\aladdinproject\enemy2.cpp
+	"Enemy2.h"
+
+1543712453 g:\habib\semester 3\oop\project\aladdin\aladdinproject\enemy2.h
+	"EnemyBase.h"
+
+1543757775 source:g:\habib\semester 3\oop\project\aladdin\aladdinproject\enemy3.cpp
+	"Enemy3.h"
+
+1543757775 g:\habib\semester 3\oop\project\aladdin\aladdinproject\enemy3.h
+	"EnemyBase.h"
+
+1543759416 source:g:\habib\semester 3\oop\project\aladdin\aladdinproject\enemybase.cpp
+	"EnemyBase.h"
+
+1543505209 source:g:\habib\semester 3\oop\project\aladdin\aladdinproject\flames.cpp
+	"Flames.h"
+
+1543683737 g:\habib\semester 3\oop\project\aladdin\aladdinproject\flames.h
+	"EnemyBase.h"
+
+1543751055 source:g:\habib\semester 3\oop\project\aladdin\aladdinproject\knife.cpp
+	"Knife.h"
+
+1543744097 g:\habib\semester 3\oop\project\aladdin\aladdinproject\knife.h
+	"Unit.h"
+	"EnemyBase.h"
+
+1542191153 source:g:\habib\semester 3\oop\project\aladdin\aladdinproject\ltexture.cpp
+	"LTexture.h"
+	<SDL.h>
+	<SDL_image.h>
+
+1543759457 source:g:\habib\semester 3\oop\project\aladdin\aladdinproject\queue.cpp
+	"Queue.h"
+	<iostream>
+
+1543747346 g:\habib\semester 3\oop\project\aladdin\aladdinproject\queue.h
+	"CollisionCheck.h"
+	"EnemyBase.h"
+	"Node.h"
+
+1543749757 g:\habib\semester 3\oop\project\aladdin\aladdinproject\node.h
+
+1543722598 source:g:\habib\semester 3\oop\project\aladdin\aladdinproject\unit.cpp
+	"Unit.h"
+
+1543759430 source:g:\habib\semester 3\oop\project\aladdin\aladdinproject\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<string>
+	<cmath>
+	<iostream>
+	"LTexture.h"
+	"Queue.h"
+	"Background.h"
+	"Unit.h"
+	"GlobalFunctions.h"
+	"EnemyBase.h"
+	"Enemy.h"
+	"Enemy2.h"
+	"Enemy3.h"
+	"Knife.h"
+	"Flames.h"
+	"Boss.h"
+	"BossSeat.h"
+	"Camel.h"
+	"CamelSaliva.h"
+	"Aladdin.h"
+	"CollisionCheck.h"
+	"Background.h"
+	"Camera.h"
+	"Pillar.h"
+	"PlaceObjects.h"
+	"PlatformStairs.h"
+
+1543713576 g:\habib\semester 3\oop\project\aladdin\aladdinproject\background.h
+	"SDL.h"
+	"SDL_image.h"
+	"LTexture.h"
+
+1542212389 g:\habib\semester 3\oop\project\aladdin\aladdinproject\globalfunctions.h
+	<stdlib.h>
+	<sstream>
+
+1543683739 source:g:\habib\semester 3\oop\project\aladdin\aladdinproject\collisioncheck.cpp
+	"CollisionCheck.h"
+
+1543749829 g:\habib\semester 3\oop\project\aladdin\aladdinproject\collisioncheck.h
+	<iostream>
+
+1543713576 source:g:\habib\semester 3\oop\project\aladdin\aladdinproject\background.cpp
+	"Background.h"
+
+1543721795 source:g:\habib\semester 3\oop\project\aladdin\aladdinproject\camera.cpp
+	"Camera.h"
+
+1543713576 g:\habib\semester 3\oop\project\aladdin\aladdinproject\camera.h
+
+1543713576 source:g:\habib\semester 3\oop\project\aladdin\aladdinproject\pillar.cpp
+
+1543713577 source:g:\habib\semester 3\oop\project\aladdin\aladdinproject\placeobjects.cpp
+	"PlaceObjects.h"
+	"PlaceObjects.h"
+
+1543713577 g:\habib\semester 3\oop\project\aladdin\aladdinproject\placeobjects.h
+	"PlatformStairs.h"
+
+1543713577 g:\habib\semester 3\oop\project\aladdin\aladdinproject\platformstairs.h
+	"SDL.h"
+	"LTexture.h"
+
+1543713577 source:g:\habib\semester 3\oop\project\aladdin\aladdinproject\platformstairs.cpp
+	"PlatformStairs.h"
+
+1543713576 g:\habib\semester 3\oop\project\aladdin\aladdinproject\pillar.h
+
+1543816738 source:g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\aladdin.cpp
+	"Aladdin.h"
+
+1543816738 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\aladdin.h
+	"Unit.h"
+
+1543816738 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\unit.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+
+1543816738 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\ltexture.h
+	<iostream>
+	<SDL.h>
+
+1543816738 source:g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\background.cpp
+	"Background.h"
+
+1543816738 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\background.h
+	"SDL.h"
+	"SDL_image.h"
+	"LTexture.h"
+
+1543816738 source:g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\boss.cpp
+	"Boss.h"
+	<iostream>
+	"EnemyBase.h"
+
+1543816738 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\boss.h
+	"EnemyBase.h"
+	"BossSeat.h"
+	"SDL.h"
+
+1543902485 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\enemybase.h
+	"LTexture.h"
+	"Unit.h"
+
+1543816738 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\bossseat.h
+	"EnemyBase.h"
+
+1543816738 source:g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\bossseat.cpp
+	"BossSeat.h"
+
+1543816738 source:g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\camel.cpp
+	"Camel.h"
+
+1543816738 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\camel.h
+	"EnemyBase.h"
+
+1543816738 source:g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\camelsaliva.cpp
+	"CamelSaliva.h"
+
+1543816738 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\camelsaliva.h
+	"EnemyBase.h"
+	"Enemy2.h"
+
+1543816738 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\enemy2.h
+	"EnemyBase.h"
+
+1543816738 source:g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\camera.cpp
+	"Camera.h"
+
+1543816738 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\camera.h
+
+1543816738 source:g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\enemy.cpp
+	"Enemy.h"
+
+1543816738 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\enemy.h
+	"EnemyBase.h"
+
+1543816738 source:g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\enemy2.cpp
+	"Enemy2.h"
+
+1543816738 source:g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\enemy3.cpp
+	"Enemy3.h"
+
+1543816738 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\enemy3.h
+	"EnemyBase.h"
+
+1543816738 source:g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\enemybase.cpp
+	"EnemyBase.h"
+
+1543816738 source:g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\flames.cpp
+	"Flames.h"
+
+1543816738 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\flames.h
+	"EnemyBase.h"
+
+1543816738 source:g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\knife.cpp
+	"Knife.h"
+
+1543816738 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\knife.h
+	"Unit.h"
+	"EnemyBase.h"
+
+1543816738 source:g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\ltexture.cpp
+	"LTexture.h"
+	<SDL.h>
+	<SDL_image.h>
+
+1543816738 source:g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\pillar.cpp
+
+1543816738 source:g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\placeobjects.cpp
+	"PlaceObjects.h"
+	"PlaceObjects.h"
+
+1543816738 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\placeobjects.h
+	"PlatformStairs.h"
+
+1543816738 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\platformstairs.h
+	"SDL.h"
+	"LTexture.h"
+
+1543816738 source:g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\queue.cpp
+	"Queue.h"
+	<iostream>
+
+1543816738 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\queue.h
+	"CollisionCheck.h"
+	"EnemyBase.h"
+	"Node.h"
+
+1543816738 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\collisioncheck.h
+	<iostream>
+
+1543816738 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\node.h
+
+1543816738 source:g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\unit.cpp
+	"Unit.h"
+
+1543902485 source:g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<string>
+	<cmath>
+	<iostream>
+	"LTexture.h"
+	"Queue.h"
+	"Background.h"
+	"Unit.h"
+	"GlobalFunctions.h"
+	"EnemyBase.h"
+	"Enemy.h"
+	"Enemy2.h"
+	"Enemy3.h"
+	"Knife.h"
+	"Flames.h"
+	"Boss.h"
+	"BossSeat.h"
+	"Camel.h"
+	"CamelSaliva.h"
+	"Aladdin.h"
+	"CollisionCheck.h"
+	"Background.h"
+	"Camera.h"
+	"Pillar.h"
+	"PlaceObjects.h"
+	"PlatformStairs.h"
+
+1543816738 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\globalfunctions.h
+	<stdlib.h>
+	<sstream>
+
+1543816738 g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\pillar.h
+
+1543902485 source:g:\habib\semester 3\oop\project\project-habib-ka-aladdin-a65e2457cf8b06b6694041f0a5cb1376a000a58b\platformstairs.cpp
+	"PlatformStairs.h"
+

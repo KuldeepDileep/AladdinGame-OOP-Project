@@ -1,0 +1,86 @@
+#include "Boss.h"
+
+Boss::Boss(LTexture* image, float x, float y)
+{
+    spriteSheetTexture = image;
+//FLAMES_HIT_FRAMES:
+    FLAMES_HIT_CLIPS[0].x = 0;
+    FLAMES_HIT_CLIPS[0].y = 120;
+    FLAMES_HIT_CLIPS[0].w = 90;
+    FLAMES_HIT_CLIPS[0].h = 105;
+
+    FLAMES_HIT_CLIPS[1].x = 90;
+    FLAMES_HIT_CLIPS[1].y = 120;
+    FLAMES_HIT_CLIPS[1].w = 90;
+    FLAMES_HIT_CLIPS[1].h = 105;
+
+    FLAMES_HIT_CLIPS[2].x = 180;
+    FLAMES_HIT_CLIPS[2].y = 120;
+    FLAMES_HIT_CLIPS[2].w = 85;
+    FLAMES_HIT_CLIPS[2].h = 105;
+
+    FLAMES_HIT_CLIPS[3].x = 265;
+    FLAMES_HIT_CLIPS[3].y = 120;
+    FLAMES_HIT_CLIPS[3].w = 95;
+    FLAMES_HIT_CLIPS[3].h = 105;
+
+    FLAMES_HIT_CLIPS[4].x = 360;
+    FLAMES_HIT_CLIPS[4].y = 120;
+    FLAMES_HIT_CLIPS[4].w = 100;
+    FLAMES_HIT_CLIPS[4].h = 105;
+//ATTACK_FRAMES:
+    ATTACK_CLIPS[0].x = 0;
+    ATTACK_CLIPS[0].y = 325;
+    ATTACK_CLIPS[0].w = 90;
+    ATTACK_CLIPS[0].h = 89;
+
+    ATTACK_CLIPS[1].x = 90;
+    ATTACK_CLIPS[1].y = 325;
+    ATTACK_CLIPS[1].w = 85;
+    ATTACK_CLIPS[1].h = 89;
+
+    ATTACK_CLIPS[2].x = ;
+    ATTACK_CLIPS[2].y = ;
+    ATTACK_CLIPS[2].w = ;
+    ATTACK_CLIPS[2].h = ;
+
+    ATTACK_CLIPS[3].x = ;
+    ATTACK_CLIPS[3].y = ;
+    ATTACK_CLIPS[3].w = ;
+    ATTACK_CLIPS[3].h = ;
+
+    ATTACK_CLIPS[4].x = ;
+    ATTACK_CLIPS[4].y = ;
+    ATTACK_CLIPS[4].w = ;
+    ATTACK_CLIPS[4].h = ;
+
+    ATTACK_CLIPS[5].x = ;
+    ATTACK_CLIPS[5].y = ;
+    ATTACK_CLIPS[5].w = ;
+    ATTACK_CLIPS[5].h = ;
+
+    ATTACK_CLIPS[6].x = ;
+    ATTACK_CLIPS[6].y = ;
+    ATTACK_CLIPS[6].w = ;
+    ATTACK_CLIPS[6].h = ;
+
+    ATTACK_CLIPS[7].x = ;
+    ATTACK_CLIPS[7].y = ;
+    ATTACK_CLIPS[7].w = ;
+    ATTACK_CLIPS[7].h = ;
+
+    ATTACK_CLIPS[8].x = ;
+    ATTACK_CLIPS[8].y = ;
+    ATTACK_CLIPS[8].w = ;
+    ATTACK_CLIPS[8].h = ;
+
+    ATTACK_CLIPS[9].x = ;
+    ATTACK_CLIPS[9].y = ;
+    ATTACK_CLIPS[9].w = ;
+    ATTACK_CLIPS[9].h = ;
+}
+
+Boss::~Boss()
+{
+    cout<<"Boss deallocated"<<endl;
+}
